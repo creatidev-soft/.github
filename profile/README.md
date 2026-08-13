@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/creatidev-soft.png" width="120" alt="CreatiDEV logo" />
-
-# CreatiDEV
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/creatidev-soft/.github/main/profile/assets/creatidev-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/creatidev-soft/.github/main/profile/assets/creatidev-banner-light.png">
+  <img src="https://raw.githubusercontent.com/creatidev-soft/.github/main/profile/assets/creatidev-banner-light.png" width="520" alt="CreatiDEV" />
+</picture>
 
 ### Desarrollo que crea soluciones
 
